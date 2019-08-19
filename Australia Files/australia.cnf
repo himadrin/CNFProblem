@@ -1,0 +1,58 @@
+Tr Tg Tb
+-Tr -Tb
+-Tg -Tb
+-Tr -Tg
+Vr Vg Vb
+-Vr -Vb
+-Vg -Vb
+-Vr -Vg
+NSWr NSWg NSWb
+-NSWr -NSWb
+-NSWg -NSWb
+-NSWr -NSWg
+Qr Qg Qb
+-Qr -Qb
+-Qg -Qb
+-Qr -Qg
+NTr NTg NTb
+-NTr -NTb
+-NTg -NTb
+-NTr -NTg
+SAr SAg SAb
+-SAr -SAb
+-SAg -SAb
+-SAr -SAg
+WAr WAg WAb
+-WAr -WAb
+-WAg -WAb
+-WAr -WAg
+-Tr -Vr
+-Tg -Vg
+-Tb -Vb
+-Vr -NSWr
+-Vg -NSWg
+-Vb -NSWb
+-Vr -SAr
+-Vg -SAg
+-Vb -SAb
+-NSWr -SAr
+-NSWb -SAb
+-NSWg -SAg
+-NSWr -Qr
+-NSWg -Qg
+-NSWb -Qb
+-Qr -NTr
+-Qg -NTg
+-Qb -NTb
+-Qr -SAr
+-Qg -SAg
+-Qb -SAb
+-NTr -SAr
+-NTg -SAg
+-NTb -SAb
+-NTr -WAr
+-NTg -WAg
+-NTb -WAb
+-SAr -WAr
+-SAg -WAg
+-SAb -WAb
